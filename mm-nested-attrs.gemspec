@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.require_path= "lib"
   s.extra_rdoc_files = ["README.txt"]
   s.files=%w(lib/mm-nested-attrs.rb)
-  s.required_ruby_version = '>= 1.9.3'
+  s.required_ruby_version = '>= 1.9.2'
   s.homepage    =
     'https://github.com/berrouz/mm-nested-attrs'
 end
